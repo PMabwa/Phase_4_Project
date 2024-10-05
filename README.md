@@ -48,16 +48,16 @@
 
 #### Based on the EDA above, it is evident that the product with a high frequency of sentiments are from the Apple industry, with the Ipad product demonstrating a more positive reception among customers from the tweets sampled.
 
-#### After testing diverse models for best possible sentiment analysis, it is evident that in both simple(logistic regression) and Advanced models(XGBOOST, SVM & Random Forest Classifier), binary classification performs best with high accuracy prediction scores of between (84% - 89%) after tuning the models to their best parameters. The multiclass trials exhibit a stagnation of prediction accuracy score of 67%. The *challenge* faced across the models is the class imbalance where neutral sentiments are more than those of positive and negative.
+#### After testing diverse models for the best possible sentiment analysis, it is evident that in both simple(logistic regression) and Advanced models(XGBOOST, SVM & Random Forest Classifier), binary classification performs best with high accuracy prediction scores of between (84% - 89%) after tuning the models to their best parameters. The multiclass trials exhibit a stagnation of prediction accuracy score of 67%. The *challenge* faced across the models is the class imbalance where neutral sentiments are more than those positive and negative.
 
 ### **Recommendation**
 
-#### 1) To get better insights, companies like Google and Apple may decide to focus on high impact users such as relevant product influencers and tech communities whom can provide more valuable insights about their products. This is usually informed by the high product engagement these target segmentation has.
+#### 1) To get better insights, companies like Google and Apple may focus on high-impact users such as relevant product influencers and tech communities who can provide more valuable insights about their products. The high product engagement usually informs this of these target segments.
 
-#### 2) Seek to interogate the neutral comments further using aspect-based sentiment analysis with the aim of contextualizing the comment. This may help identify valuable information/feedback about a product's performance or design.
+#### 2) Seek to interrogate the neutral comments further using aspect-based sentiment analysis to contextualize the comment. This may help identify valuable information/feedback about a product's performance or design.
 
-#### 3) For the sentimaent analysis model to perform better, introducing sentiment weighting might aid in distinguishing feedback from high-engagement users to reduce the influence of low-impact nutral responses influencing the overall insights.
+#### 3) For the sentiment analysis model to perform better, introducing sentiment weighting might aid in distinguishing feedback from high-engagement users to reduce the influence of low-impact neutral responses influencing the overall insights.
 
-#### 4) Lastly, Enhancing the sentiment classification models from the conventional(positive, negative and neutral) responses, where it can be able to interpret more nuanced emotions within text.  
+#### 4) Lastly, Enhancing the sentiment classification models from the conventional(positive, negative and neutral) responses, where it can be able to interpret more nuanced emotions within the text.  
 
 
