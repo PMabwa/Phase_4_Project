@@ -15,7 +15,7 @@
 #### 2) sample data from high impact users including relevant   influencers & tech communities 
 #### 3) Enhance sentiment models to interpret more nuanced emotions beyond the regular (positive, negative & neutral)
 
-### **Data Understanding**
+# **Data Understanding**
 
 #### This dataset is a list of sampled tweets about Apple and Google products with 9093 entries, within it there are three columns;
 
@@ -44,13 +44,13 @@
  # **Modeling**
 
 #### In this section, expose the cleaned and preprocessed dataset to diverse models for sentiment analysis. Evaluate how accurate the models perform in binary and multiclass. For a baseline model, use logistic regression
-### **Conclusion**
+# **Conclusion**
 
 #### Based on the EDA above, it is evident that the product with a high frequency of sentiments are from the Apple industry, with the Ipad product demonstrating a more positive reception among customers from the tweets sampled.
 
 #### After testing diverse models for the best possible sentiment analysis, it is evident that in both simple(logistic regression) and Advanced models(XGBOOST, SVM & Random Forest Classifier), binary classification performs best with high accuracy prediction scores of between (84% - 89%) after tuning the models to their best parameters. The multiclass trials exhibit a stagnation of prediction accuracy score of 67%. The *challenge* faced across the models is the class imbalance where neutral sentiments are more than those positive and negative.
 
-### **Recommendation**
+# **Recommendation**
 
 #### 1) To get better insights, companies like Google and Apple may focus on high-impact users such as relevant product influencers and tech communities who can provide more valuable insights about their products. The high product engagement usually informs this of these target segments.
 
