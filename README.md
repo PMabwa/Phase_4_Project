@@ -39,7 +39,7 @@
 #### The Pie Chart above displays that the percentage of neural sentiments is higher (60.3%), followed by positive (33.3%) then negative at (6.4%). With such a collection, there is likelihood of a class imbalance challenge when analyzing the sentiments. With the bar chart showcasing the top ten products with ipad getting the most mentions of about 2300.
 ![image](https://github.com/user-attachments/assets/8c4e38a8-4bd4-4ee6-9a97-83a46f3b7c54)
 
- ### The plot above demonstrates that the distribution of neutral sentiments across the product is high. This may be as a result of a class imbalance, whereby the number of neutral sentiments are more than those of either positive or negative. According to the plot, the ipad product has the highest positive sentiment of 900 whilst the highest negative sentiments are observed to affect the iphone product.  
+ #### The plot above demonstrates that the distribution of neutral sentiments across the product is high. This may be as a result of a class imbalance, whereby the number of neutral sentiments are more than those of either positive or negative. According to the plot, the ipad product has the highest positive sentiment of 900 whilst the highest negative sentiments are observed to affect the iphone product.  
 
  # **Modeling**
 
